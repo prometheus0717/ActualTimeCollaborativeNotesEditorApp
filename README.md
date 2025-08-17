@@ -34,9 +34,12 @@ To run the Collab-Editor, follow these steps:
 
 ## Working Demo
 
+
 <img width="1355" height="717" alt="Screenshot 2025-08-18 005426" src="https://github.com/user-attachments/assets/b0990db9-f7da-44c5-a22a-74d88f81f19b" />
 
+
 https://github.com/user-attachments/assets/705485b1-b3ca-41bf-95c5-1dd89f829443
+
 
 ## How it Works
 
