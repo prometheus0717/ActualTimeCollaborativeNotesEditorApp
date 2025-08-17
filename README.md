@@ -1,4 +1,4 @@
-# Real Time Collaborative Notes Editor App Guvi Hcl Project 2
+# Real Time Collaborative Notes Editor App Guvi HCL Project 2
 A Real-time Collaborative Editor using Node.js, WebSockets, and React
 
 ## Overview
