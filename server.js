@@ -36,7 +36,7 @@ wss.on('connection', (ws) => {
 
     ws.on('close', () => {
         console.log('Client disconnected');
-    });
+    });  
 });
 
 const PORT = 5000;
