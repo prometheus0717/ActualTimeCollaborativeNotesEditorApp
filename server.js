@@ -12,7 +12,7 @@ let document = ""; // Store the document content
       
 wss.on('connection', (ws) => { 
     console.log('New client connected');   
-
+ 
     // Send the current document state to the new client 
     ws.send(JSON.stringify({ type: 'init', data: document }));
  
