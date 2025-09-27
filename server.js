@@ -17,7 +17,7 @@ wss.on('connection', (ws) => {
     ws.send(JSON.stringify({ type: 'init', data: document }));
  
     ws.on('message', (message) => { 
-        try {
+        try { 
             const parsedMessage = JSON.parse(message);
             if (parsedMessage.type === 'update') {
                 document = parsedMessage.data;
