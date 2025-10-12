@@ -15,7 +15,7 @@ function App() {
   
         newSocket.onmessage = (event) => {
             try {
-                const message = JSON.parse(event.data);
+                const message = JSON.parse(event.data); 
                 if (message.type === 'init') {
                     setDocument(message.data);
                 } else if (message.type === 'update') {
