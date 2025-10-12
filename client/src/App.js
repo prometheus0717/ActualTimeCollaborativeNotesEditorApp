@@ -10,7 +10,7 @@ function App() {
         setSocket(newSocket);
 
         newSocket.onopen = () => {
-            console.log('WebSocket connection established');
+            console.log('WebSocket connection established'); 
         };
   
         newSocket.onmessage = (event) => {
