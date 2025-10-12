@@ -9,7 +9,7 @@ function App() {
         const newSocket = new WebSocket('ws://localhost:5000'); 
         setSocket(newSocket);
 
-        newSocket.onopen = () => {
+        newSocket.onopen = () => { 
             console.log('WebSocket connection established'); 
         };
   
