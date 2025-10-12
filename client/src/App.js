@@ -18,7 +18,7 @@ function App() {
                 const message = JSON.parse(event.data); 
                 if (message.type === 'init') {
                     setDocument(message.data); 
-                } else if (message.type === 'update') {
+                } else if (message.type === 'update') { 
                     setDocument(message.data);
                 }
             } catch (error) {
