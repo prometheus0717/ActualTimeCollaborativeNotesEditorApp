@@ -1,5 +1,5 @@
 {
-  "name": "collab Editor", 
+  "name": "Realtime Collab Editor", 
   "version": "1.0.0", 
   "main": "index.js",
   "scripts": {
