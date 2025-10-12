@@ -5,7 +5,7 @@ function App() {
     const [document, setDocument] = useState("");
     const [socket, setSocket] = useState(null);
 
-    useEffect(() => {
+    useEffect(() => { 
         const newSocket = new WebSocket('ws://localhost:5000');
         setSocket(newSocket);
 
