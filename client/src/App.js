@@ -20,7 +20,7 @@ function App() {
                     setDocument(message.data); 
                 } else if (message.type === 'update') { 
                     setDocument(message.data);
-                }
+                } 
             } catch (error) {
                 console.error('Error parsing message:', error);
             }
