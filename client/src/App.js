@@ -12,7 +12,7 @@ function App() {
         newSocket.onopen = () => {
             console.log('WebSocket connection established');
         };
-
+  
         newSocket.onmessage = (event) => {
             try {
                 const message = JSON.parse(event.data);
