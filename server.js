@@ -8,7 +8,7 @@ app.use(cors());
 const server = http.createServer(app);        
 const wss = new WebSocket.Server({ server });                        
            
-let document = ""; // Store the document content              
+let document = ""; // Store the document content               
             
 wss.on('connection', (ws) => {      
     console.log('New client connected');    
