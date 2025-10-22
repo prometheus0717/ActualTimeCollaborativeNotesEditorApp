@@ -25,7 +25,7 @@ wss.on('connection', (ws) => {
                 wss.clients.forEach((client) => {
                     if (client.readyState === WebSocket.OPEN) {
                         client.send(JSON.stringify({ type: 'update', data: document }));
-                    }
+                    } 
                 });
             }
         } catch (error) {
