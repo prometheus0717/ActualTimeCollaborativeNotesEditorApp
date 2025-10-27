@@ -12,7 +12,7 @@ Collab Editor is a real time collaborative editor that allows multiple users to 
 * Supports multiple users
  
 ## Technologies Used 
-
+ 
 * Node.js
 * WebSocket
 * React
