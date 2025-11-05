@@ -9,7 +9,7 @@ const server = http.createServer(app);
 const wss = new WebSocket.Server({ server });  
                 
 let document = ""; // Store the document content here             
-            
+             
 wss.on('connection', (ws) => {      
     console.log('New client connected');    
    
