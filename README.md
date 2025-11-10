@@ -11,7 +11,7 @@ Collab Editor is a real time collaborative editor that allows multiple users to 
 * Runs locally on your machine
 * Supports multiple users   
  
-## Technologies Used 
+## Technologies Used  
   
 * Node.js
 * WebSocket
