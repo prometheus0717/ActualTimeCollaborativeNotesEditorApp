@@ -3,7 +3,7 @@ A Real-time Collaborative Editor using Node.js, WebSockets, and React
  
 ## Overview        
     
-Collab Editor is a real time collaborative editor that allows multiple users to edit a document simultaneously. This project uses Node.js, WebSockets, and React to provide a seamless collaborative experience.   
+Collab Editor is a real time collaborative editor that allows multiple users to edit a document simultaneously. This project uses Node.js, WebSockets, and React to provide a seamless collaborative experience.    
     
 ## Features   
   
