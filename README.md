@@ -1,4 +1,4 @@
-# Real Time Collaborative Notes Editor 
+# Real Time Collaborative Notes Editor  
 A Real-time Collaborative Editor using Node.js, WebSockets, and React  
  
 ## Overview       
@@ -7,7 +7,7 @@ Collab Editor is a real time collaborative editor that allows multiple users to 
     
 ## Features   
   
-* Real-time collaborative editing 
+* Real-time collaborative editing  
 * Runs locally on your machine  
 * Supports multiple users   
   
