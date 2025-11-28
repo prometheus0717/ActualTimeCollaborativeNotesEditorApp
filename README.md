@@ -8,7 +8,7 @@ Collab Editor is a real time collaborative editor that allows multiple users to 
 ## Features             
         
 * Real-time collaborative editing    
-* Runs locally on your machine      
+* Runs locally on your machine       
 * Supports multiple users    
   
 ## Technologies Used  
